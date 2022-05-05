@@ -1,0 +1,18 @@
+.titles-movies, .title-series {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 3vw;
+    text-align: start;
+    color: blue;
+}
+
+.cards {
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 1rem;
+    display: flex;
+
+}
+
+.card-img {
+    width: 10vw;
+}
